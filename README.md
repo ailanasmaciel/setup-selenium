@@ -38,3 +38,7 @@
 - Agora abra o arquivo "RunnerTest" em src/test/java/runners e execute como abaixo:
 - ![image](https://user-images.githubusercontent.com/21202785/133542477-923b978c-84f9-4ed9-bb84-00daf4ff7e62.png)
 - Se o Google chrome abrir seu ambiente está configurado com sucesso!!
+
+### 5. Video de Todo o Processo de Configuração <3
+
+https://1drv.ms/v/s!AvbJYVis1IsniSvb4z5htzZoRCit?e=sDfxb2
